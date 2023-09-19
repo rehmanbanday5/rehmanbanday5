@@ -7,7 +7,8 @@ I'm Abdul Rehman Banday
 I am a student that is currently working on Typecript . 
 
 
-- 📫 How to reach me :
+- 📫 How To Reach Me  :
+  
 Email: rehmanbanday5@gmail.com
 
 LinkedIn: Abdul Rehman Banday
