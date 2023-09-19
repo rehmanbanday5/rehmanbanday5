@@ -1,7 +1,15 @@
-About Me : 
-- 👋 Hi, I’m @Abdul Rehman
--  I’m currently working on Typescript 
-- 📫 How to reach me : rehmanbanday5@gmail.com 
+Hi There 👋
+
+I'm Abdul Rehman Banday 
+____________________________________________________________________________________________________________________________________________________________________________________________
+
+I am a student that is currently working on Typecript . 
+
+
+- 📫 How to reach me :
+Email: rehmanbanday5@gmail.com
+LinkedIn: Abdul Rehman Banday
+Github: rehmanbanday5
 
 <!---
 rehmanbanday5/rehmanbanday5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
