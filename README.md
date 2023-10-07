@@ -4,7 +4,7 @@ Hi There 👋
 I'm Abdul Rehman Banday
 
 
-I am a student that is currently working on Typecript . 
+Typescript Developer
 
 
 - 📫 How To Reach Me  :
